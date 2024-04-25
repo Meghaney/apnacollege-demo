@@ -1,3 +1,5 @@
 # apnacollege-demo
 ###### Author: Meghaney
-#### Repo to practice git and GitHub learning
+<hr>
+
+### Repo to practice git and GitHub learning
